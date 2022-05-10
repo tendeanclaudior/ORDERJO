@@ -1,0 +1,6 @@
+module Pods_Orderjo_OrderjoTests {
+  umbrella header "Pods-Orderjo-OrderjoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
